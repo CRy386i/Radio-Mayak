@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_radio_mayaks_album_art"
+		texturefile = "gfx/radio_mayaks_album_art.dds"
+		noOfFrames = 2
+	}

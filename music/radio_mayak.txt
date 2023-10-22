@@ -1,0 +1,10 @@
+music_station = "radio_mayak"
+
+music = {
+	song = "ah_sweet_cherry_the_ukrainian"
+
+	chance = {
+		factor = 1
+		
+	}
+}
