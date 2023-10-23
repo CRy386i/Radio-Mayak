@@ -131,132 +131,134 @@ music = {
 
 music = {
 	name = "oh_little_apple"
-	
-	
+	file = "oh_little_apple.ogg"
+	volume = 1
 }
 
 music = {
 	name = "our_fast_tanks"
-	
-	
+	file = "our_fast_tanks.ogg"
+	volume = 1
 }
 
 music = {
 	name = "partisan_s_song"
-	
-	
+	file = "partisan_s_song.ogg"
+	volume = 1
 }
 
 music = {
 	name = "peopel_s_anthem_of_the_soviet_union"
-	
-	
+	file = "peopel_s_anthem_of_the_soviet_union.ogg"
+	volume = 1
 }
 
 music = {
 	name = "the_red_army_is_the_strongest"
-	
-	
+	file = "the_red_army_is_the_strongest.ogg"
+	volume = 1
 }
 
 music = {
 	name = "sing_play_my_accordion"
-	
-	
+	file = "sing_play_my_accordion.ogg"
+	volume = 1
 }
 
 music = {
 	name = "song_of_the_red_army_sodliers"
-	
-	
+	file = "song_of_the_red_army_sodliers.ogg"
+	volume = 1
+}
 
 music = {
 	name = "kalinka"
-	
-	
+	file = "kalinka.ogg"
+	volume = 1
 }
 	
 music = {
 	name = "song_of_cavalry_patrol"
-	
-	
+	file = "song_of_cavalry_patrol.ogg"
+	volume = 1
+}	
 
 music = {
 	name = "song_of_the_fighting_stalinists"
-	
-	
+	file = "song_of_the_fighting_stalinists.ogg"
+	volume = 1
 }
 
 music = {
 	name = "the_sacred_war"
-	
-	
+	file = "the_sacred_war.ogg"
+	volume = 1
 }
 
 music = {
 	name = "tachanka"
-	
-	
+	file = "tachanka.ogg"
+	volume = 1
 }
 
 music = {
 	name = "the_cossacks_song"
-	
-	
+	file = "the_cossacks_song.ogg"
+	volume = 1
 }
 
 music = {
 	name = "a_poem_about_ukraine"
-	
-	
+	file = "a_poem_about_ukraine.ogg"
+	volume = 1
 }
 
 music = {
 	name = "the_song_about_chapayev"
-	
-	
+	file = "the_song_about_chapayev.ogg"
+	volume = 1
 }
 
 music = {
 	name = "transylvania"
-	
-	
+	file = "transylvania.ogg"
+	volume = 1
 }
 
 music = {
 	name = "uralochka"
-	
-	
+	file = "uralochka.ogg"
+	volume = 1
 }
 
 music = {
 	name = "ussr_anthem_1944"
-	
-	
+	file = "ussr_anthem_1944.ogg"
+	volume = 1
 }
 
 music = {
 	name = "polyushko_pole"
-	
-	
+	file = "polyushko_pole.ogg"
+	volume = 1
 }
 
 music = {
 	name = "washawyanka"
-	
-	
+	file = "washawyanka.ogg"
+	volume = 1
 }
 
 music = {
 	name = "wide_is_my_motherland"
-	
-	
+	file = "wide_is_my_motherland.ogg"
+	volume = 1
 }
 
 music = {
 	name = "workers_marsillies"
-	
-	
+	file = "workers_marsillies.ogg"
+	volume = 1
 }
 
 music_station = "radio_mayak"
