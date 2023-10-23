@@ -8,3 +8,391 @@ music = {
 		
 	}
 }
+
+music = {
+	song = "all_power_soviets"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "anthem_of_the_bolshevik_party"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "bolshevik_leaves_home"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "dark_is_the_night"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "do_not_come_here_samurais"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "do_not_touch_us"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "comrade_dzerzhinsky"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "fly_victorious_song"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "farewell_slavianka"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "greet_us_beautiful_finland"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "if_tomorrow_brings_war"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "konarmeiskaya"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "long_live_our_country"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "beloved_city"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "march_artillerians"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "march_of_the_defenders_of_moscow"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "march_of_stalin_s_air_force"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "march_soviet_tankists"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "moscow_in_may"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "national_anthem_of_the_russian_sfsr"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "oh_gardens_lovely_gardens"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "oh_little_apple"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "our_fast_tanks"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "partisan_s_song"
+
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "peopel_s_anthem_of_the_soviet_union"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "the_red_army_is_the_strongest"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "sing_play_my_accordion"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "song_of_the_red_army_sodliers"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "kalinka"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "song_of_cavalry_patrol"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "song_of_the_fighting_stalinists"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "the_sacred_war"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "tachanka"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "the_cossacks_song"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "a_poem_about_ukraine"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "the_song_about_chapayev"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "transylvania"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "uralochka"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "ussr_anthem_1944"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "polyushko_pole"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "washawyanka"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "wide_is_my_motherland"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "workers_marsillies"
+
+	chance = {
+		factor = 1
+		
+	}
+}

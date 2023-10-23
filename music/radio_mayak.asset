@@ -3,3 +3,260 @@ music = {
 	file = "ah_sweet_cherry_the_ukrainian.ogg"
 	volume = 1
 }
+
+music = {
+	name = "all_power_soviets"
+	file = "all_power_soviets.ogg"
+	volume = 1
+}
+
+music = {
+	name = "anthem_of_the_bolshevik_party"
+	file = "anthem_of_the_bolshevik_party.ogg"
+	volume = 1
+}
+
+music = {
+	name = "bolshevik_leaves_home"
+	file = "bolshevik_leaves_home.ogg"
+	volume = 1
+}
+
+music = {
+	name = "dark_is_the_night"
+	file = "dark_is_the_night.ogg"
+	volume = 1
+}
+
+music = {
+	name = "do_not_come_here_samurais"
+	file = "do_not_come_here_samurais.ogg"
+	volume = 1
+}
+
+music = {
+	name = "do_not_touch_us"
+	file = "do_not_touch_us.ogg"
+	volume = 1
+}
+
+music = {
+	name = "comrade_dzerzhinsky"
+	file = "comrade_dzerzhinsky.ogg"
+	volume = 1
+}
+music = {
+	name = "fly_victorious_song"
+	file = "fly_victorious_song.ogg"
+	volume = 1
+}
+
+music = {
+	name = "farewell_slavianka"
+	file = "farewell_slavianka.ogg"
+	volume = 1
+}
+
+music = {
+	name = "greet_us_beautiful_finland"
+	file = "greet_us_beautiful_finland.ogg"
+	volume = 1
+}
+
+music = {
+	name = "if_tomorrow_brings_war"
+	file = "if_tomorrow_brings_war.ogg"
+	volume = 1
+}
+
+music = {
+	name = "konarmeiskaya"
+	file = "konarmeiskaya.ogg"
+	volume = 1
+}
+
+music = {
+	name = "long_live_our_country"
+	file = "long_live_our_country.ogg"
+	volume = 1
+}
+
+music = {
+	name = "beloved_city"
+	file = "beloved_city.ogg"
+	volume = 1
+}
+
+music = {
+	name = "march_artillerians"
+	file = "march_artillerians.ogg"
+	volume = 1
+}
+
+music = {
+	name = "march_of_the_defenders_of_moscow"
+	file = "march_of_the_defenders_of_moscow.ogg"
+	volume = 1
+}
+
+music = {
+	name = "march_of_stalin_s_air_force"
+	file = "march_of_stalin_s_air_force.ogg"
+	volume = 1
+}
+
+music = {
+	name = "march_soviet_tankists"
+	file = "march_soviet_tankists.ogg"
+	volume = 1
+}
+
+music = {
+	name = "moscow_in_may"
+	file = "moscow_in_may.ogg"
+	volume = 1
+}
+
+music = {
+	name = "national_anthem_of_the_russian_sfsr"
+	file = "national_anthem_of_the_russian_sfsr.ogg"
+	volume = 1
+}
+
+music = {
+	name = "oh_gardens_lovely_gardens"
+	file = "oh_gardens_lovely_gardens.ogg"
+	volume = 1
+}
+
+music = {
+	name = "oh_little_apple"
+	
+	
+}
+
+music = {
+	name = "our_fast_tanks"
+	
+	
+}
+
+music = {
+	name = "partisan_s_song"
+	
+	
+}
+
+music = {
+	name = "peopel_s_anthem_of_the_soviet_union"
+	
+	
+}
+
+music = {
+	name = "the_red_army_is_the_strongest"
+	
+	
+}
+
+music = {
+	name = "sing_play_my_accordion"
+	
+	
+}
+
+music = {
+	name = "song_of_the_red_army_sodliers"
+	
+	
+
+music = {
+	name = "kalinka"
+	
+	
+}
+	
+music = {
+	name = "song_of_cavalry_patrol"
+	
+	
+
+music = {
+	name = "song_of_the_fighting_stalinists"
+	
+	
+}
+
+music = {
+	name = "the_sacred_war"
+	
+	
+}
+
+music = {
+	name = "tachanka"
+	
+	
+}
+
+music = {
+	name = "the_cossacks_song"
+	
+	
+}
+
+music = {
+	name = "a_poem_about_ukraine"
+	
+	
+}
+
+music = {
+	name = "the_song_about_chapayev"
+	
+	
+}
+
+music = {
+	name = "transylvania"
+	
+	
+}
+
+music = {
+	name = "uralochka"
+	
+	
+}
+
+music = {
+	name = "ussr_anthem_1944"
+	
+	
+}
+
+music = {
+	name = "polyushko_pole"
+	
+	
+}
+
+music = {
+	name = "washawyanka"
+	
+	
+}
+
+music = {
+	name = "wide_is_my_motherland"
+	
+	
+}
+
+music = {
+	name = "workers_marsillies"
+	
+	
+}
+
+music_station = "radio_mayak"
