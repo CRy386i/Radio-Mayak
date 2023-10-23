@@ -227,7 +227,7 @@ music = {
 }
 
 music = {
-	song = "peopel_s_anthem_of_the_soviet_union"
+	song = "people_s_anthem_of_the_soviet_union"
 
 	chance = {
 		factor = 1
