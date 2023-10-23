@@ -82,7 +82,7 @@ music = {
 }
 
 music = {
-	song = "farewell_slavianka"
+	song = "farewell_of_slavianka"
 
 	chance = {
 		factor = 1
@@ -371,7 +371,7 @@ music = {
 }
 
 music = {
-	song = "washawyanka"
+	song = "warshawyanka"
 
 	chance = {
 		factor = 1

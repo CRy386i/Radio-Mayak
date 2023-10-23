@@ -52,8 +52,8 @@ music = {
 }
 
 music = {
-	name = "farewell_slavianka"
-	file = "farewell_slavianka.ogg"
+	name = "farewell_of_slavianka"
+	file = "farewell_of_slavianka.ogg"
 	volume = 1
 }
 
@@ -148,8 +148,8 @@ music = {
 }
 
 music = {
-	name = "peopel_s_anthem_of_the_soviet_union"
-	file = "peopel_s_anthem_of_the_soviet_union.ogg"
+	name = "people_s_anthem_of_the_soviet_union"
+	file = "people_s_anthem_of_the_soviet_union.ogg"
 	volume = 1
 }
 
@@ -244,8 +244,8 @@ music = {
 }
 
 music = {
-	name = "washawyanka"
-	file = "washawyanka.ogg"
+	name = "warshawyanka"
+	file = "warshawyanka.ogg"
 	volume = 1
 }
 
@@ -260,5 +260,3 @@ music = {
 	file = "workers_marsillies.ogg"
 	volume = 1
 }
-
-music_station = "radio_mayak"
