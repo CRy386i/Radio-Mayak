@@ -1,5 +1,7 @@
+# Main theme Radio Mayak
+
 music = {
-	song = "hoi4mainthemeallies"
+	song = "radio_maintheme"
 
 	chance = {
 		factor = 0.5

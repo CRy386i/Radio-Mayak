@@ -396,3 +396,12 @@ music = {
 		
 	}
 }
+
+music = {
+	song = "the_oath"
+
+	chance = {
+		factor = 1
+		
+	}
+}

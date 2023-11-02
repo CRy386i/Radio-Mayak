@@ -268,3 +268,9 @@ music = {
 	file = "workers_marsillies.ogg"
 	volume = 1
 }
+
+music = {
+	name = "the_oath"
+	file = "the_oath.ogg"
+	volume = 1
+}
