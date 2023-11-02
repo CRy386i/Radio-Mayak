@@ -1,0 +1,8 @@
+music = {
+	song = "hoi4mainthemeallies"
+
+	chance = {
+		factor = 0.5
+		
+	}
+}

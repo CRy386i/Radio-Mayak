@@ -1,3 +1,11 @@
+# MAINTHEME
+music = {
+	name = "radio_maintheme"
+	file = "hoi4mainthemeallies.ogg"
+	volume = 0.6
+}
+
+# RADIO MAYAK
 music = {
 	name = "ah_sweet_cherry_the_ukrainian"
 	file = "ah_sweet_cherry_the_ukrainian.ogg"
