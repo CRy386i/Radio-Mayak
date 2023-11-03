@@ -4,7 +4,8 @@ music = {
 	song = "radio_maintheme"
 
 	chance = {
-		factor = 0.5
-		
+		modifier = {
+			factor = 0.5
+		}
 	}
 }

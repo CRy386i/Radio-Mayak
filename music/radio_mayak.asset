@@ -300,7 +300,7 @@ music = {
 }
 
 music = {
-	name = "belarussian_partisan_song"
-	file = "belarussian_partisan_song.ogg"
+	name = "belarusian_partisan_song"
+	file = "belarusian_partisan_song.ogg"
 	volume = 1
 }

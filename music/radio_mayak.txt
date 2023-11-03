@@ -443,7 +443,7 @@ music = {
 }
 
 music = {
-	song = "belarussian_partisan_song"
+	song = "belarusian_partisan_song"
 
 	chance = {
 		factor = 1
