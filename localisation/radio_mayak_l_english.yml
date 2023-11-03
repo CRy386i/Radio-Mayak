@@ -1,5 +1,6 @@
 ﻿l_english:
  # NEW MUSIC NAMES HERE BELOW
+ radio_maintheme:0                          "The Red Riders!"
  ah_sweet_cherry_the_ukrainian:0            "Ah, Sweet Cherry the Ukrainian"
  all_power_soviets:0                        "All power to the Soviets"
  anthem_of_the_bolshevik_party:0            "Anthem of the Bolshevik party"
@@ -48,3 +49,5 @@
  the_ninth_of_may:0                         "The Ninth of May"
  there_Is_a_green_oak_tree:0                "There Is a Green Oak Tree"
  the_soldier_walked_for_the_soviet_power:0  "The Soldier Walked for the Soviet Power"
+ the_red_riders:0                           "The Red Riders"
+ belarussian_partisan_song:0                "Belarussian Partisan Song"

@@ -432,3 +432,21 @@ music = {
 		
 	}
 }
+
+music = {
+	song = "the_red_riders"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "belarussian_partisan_song"
+
+	chance = {
+		factor = 1
+		
+	}
+}

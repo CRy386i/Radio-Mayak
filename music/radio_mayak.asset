@@ -2,7 +2,7 @@
 music = {
 	name = "radio_maintheme"
 	file = "hoi4mainthemeallies.ogg"
-	volume = 0.6
+	volume = 0.7
 }
 
 # RADIO MAYAK
@@ -290,5 +290,17 @@ music = {
 music = {
 	name = "the_soldier_walked_for_the_soviet_power"
 	file = "the_soldier_walked_for_the_soviet_power.ogg"
+	volume = 1
+}
+
+music = {
+	name = "the_red_riders"
+	file = "the_red_riders.ogg"
+	volume = 1
+}
+
+music = {
+	name = "belarussian_partisan_song"
+	file = "belarussian_partisan_song.ogg"
 	volume = 1
 }
