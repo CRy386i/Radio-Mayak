@@ -405,3 +405,30 @@ music = {
 		
 	}
 }
+
+music = {
+	song = "the_ninth_of_may"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "there_Is_a_green_oak_tree"
+
+	chance = {
+		factor = 1
+		
+	}
+}
+
+music = {
+	song = "the_soldier_walked_for_the_soviet_power"
+
+	chance = {
+		factor = 1
+		
+	}
+}

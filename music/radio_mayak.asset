@@ -274,3 +274,21 @@ music = {
 	file = "the_oath.ogg"
 	volume = 1
 }
+
+music = {
+	name = "the_ninth_of_may"
+	file = "the_ninth_of_may.ogg"
+	volume = 1
+}
+
+music = {
+	name = "there_Is_a_green_oak_tree"
+	file = "there_Is_a_green_oak_tree.ogg"
+	volume = 1
+}
+
+music = {
+	name = "the_soldier_walked_for_the_soviet_power"
+	file = "the_soldier_walked_for_the_soviet_power.ogg"
+	volume = 1
+}
