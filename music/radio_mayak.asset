@@ -78,18 +78,6 @@ music = {
 }
 
 music = {
-	name = "konarmeiskaya"
-	file = "konarmeiskaya.ogg"
-	volume = 1
-}
-
-music = {
-	name = "long_live_our_country"
-	file = "long_live_our_country.ogg"
-	volume = 1
-}
-
-music = {
 	name = "beloved_city"
 	file = "beloved_city.ogg"
 	volume = 1
@@ -134,12 +122,6 @@ music = {
 music = {
 	name = "oh_gardens_lovely_gardens"
 	file = "oh_gardens_lovely_gardens.ogg"
-	volume = 1
-}
-
-music = {
-	name = "oh_little_apple"
-	file = "oh_little_apple.ogg"
 	volume = 1
 }
 
@@ -200,12 +182,6 @@ music = {
 music = {
 	name = "the_sacred_war"
 	file = "the_sacred_war.ogg"
-	volume = 1
-}
-
-music = {
-	name = "tachanka"
-	file = "tachanka.ogg"
 	volume = 1
 }
 
@@ -304,3 +280,52 @@ music = {
 	file = "belarusian_partisan_song.ogg"
 	volume = 1
 }
+
+music = {
+	name = "unharness_the_horses_guys"
+	file = "unharness_the_horses_guys.ogg"
+	volume = 1
+}
+
+music = {
+	name = "the_one_who_loves_the_power_of_soviets"
+	file = "the_one_who_loves_the_power_of_soviets.ogg"
+	volume = 1
+}
+
+music = {
+	name = "the_ditty_about_red_army"
+	file = "the_ditty_about_red_army.ogg"
+	volume = 1
+}
+
+music = {
+	name = "on_tien_shan"
+	file = "on_tien_shan.ogg"
+	volume = 1
+}
+
+music = {
+	name = "kuban_tersk_cavalry"
+	file = "kuban_tersk_cavalry.ogg"
+	volume = 1
+}
+
+music = {
+	name = "the_cossack_was_going_to_war"
+	file = "the_cossack_was_going_to_war.ogg"
+	volume = 1
+}
+
+music = {
+	name = "the_siberian_went_to_war"
+	file = "the_siberian_went_to_war.ogg"
+	volume = 1
+}
+
+music = {
+	name = "talkative_minesweeper"
+	file = "talkative_minesweeper.ogg"
+	volume = 1
+}
+
